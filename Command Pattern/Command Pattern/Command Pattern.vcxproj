@@ -152,6 +152,7 @@
     <ClInclude Include="FireCommand.h" />
     <ClInclude Include="InputHandler.h" />
     <ClInclude Include="Jump.h" />
+    <ClInclude Include="MacroCommand.h" />
     <ClInclude Include="MeleeCommand.h" />
     <ClInclude Include="shieldCommand.h" />
     <ClInclude Include="stdafx.h" />
@@ -164,6 +165,7 @@
     <ClCompile Include="FireCommand.cpp" />
     <ClCompile Include="InputHandler.cpp" />
     <ClCompile Include="Jump.cpp" />
+    <ClCompile Include="MacroCommand.cpp" />
     <ClCompile Include="MeleeCommand.cpp" />
     <ClCompile Include="shieldCommand.cpp" />
     <ClCompile Include="stdafx.cpp">

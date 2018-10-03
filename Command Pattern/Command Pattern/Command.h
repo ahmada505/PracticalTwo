@@ -6,6 +6,6 @@ public:
 	virtual void execute() =0;
 
 protected:
-	Command();
+	Command() {};
 };
 

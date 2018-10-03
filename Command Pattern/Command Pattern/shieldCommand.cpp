@@ -2,11 +2,11 @@
 #include "shieldCommand.h"
 
 
-shieldCommand::shieldCommand()
-{
-}
-
-
-shieldCommand::~shieldCommand()
-{
-}
+//shieldCommand::shieldCommand()
+//{
+//}
+//
+//
+//shieldCommand::~shieldCommand()
+//{
+//}
